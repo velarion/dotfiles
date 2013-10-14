@@ -70,7 +70,9 @@ set background=light
 " colorscheme from http://www.vim.org/scripts/script.php?script_id=590
 "colorscheme BlackSea
 "colorscheme Moria
-colorscheme earendel
+"colorscheme earendel
+colorscheme lazarus
+"colorscheme lucius
 "colorscheme eclipse
 
 " Folding
